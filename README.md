@@ -1,8 +1,8 @@
 ## Hi, my name is Diego Santos
 
-- 🎓 Final-year Systems Analysis and Development student at UNINTER.
+- 🎓 Recently graduated in Systems Analysis and Development at UNINTER.
 - 💻 Focused on back-end development, especially using Java and Spring Boot.
-- 🚀 Also exploring tools like Docker, PostgreSQL, and FastAPI to strengthen back-end solutions.
+- 🚀 Also exploring tools like AWS, Docker, PostgreSQL, and FastAPI to strengthen back-end solutions.
 
 ### 📫 How to reach me:
 
