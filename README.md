@@ -35,10 +35,3 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=diegobrsantosdev&show_icons=true"/>
 
 </p>
-
----
-
-## Contact
-
-📧 **Email:** diegobrsantosdev@gmail.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/diegobrsantos/
