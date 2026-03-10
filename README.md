@@ -12,11 +12,11 @@
 
 ## About Me
 
-- 🎓 Graduate in **Systems Analysis and Development**
-- 💻 Backend developer specializing in **Java and Spring Boot**
-- ☁️ **AWS Certified Cloud Practitioner**
-- ☁️ Interested in **cloud-based backend systems**
-- 🌍 Currently based in **Lisbon**
+- 🎓 Graduate in Systems Analysis and Development
+- 💻 Backend developer specializing in Java and Spring Boot
+- ☁️ **AWS Certified Cloud Practitioner
+- ☁️ Interested in cloud-based backend systems
+- 🌍 Currently based in Lisbon
 
 ---
 
